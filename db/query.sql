@@ -1,8 +1,5 @@
-SELECT * FROM department;
-SELECT * FROM role;
-SELECT * FROM employee;
 
-SELECT id, name AS department_name FROM department;
+SELECT id, department_name FROM department;
 
 SELECT r.id AS role_id, r.title, r.salary, d.name AS department_name
 FROM role r
