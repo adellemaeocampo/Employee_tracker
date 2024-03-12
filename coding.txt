@@ -1,0 +1,23 @@
+1. create the data bases used to begin with, seeds.sql
+2. when started presented with all departments
+    a. use inquirer package to let you view all the options below
+    b. could use switch statement that calls a functions when you choose the option. 
+3. View all departments: add get call to get info from deartment db 
+4. veiw all roles: get call to get db from the roles table
+5. emplyee: get call to view all emplyee data 
+6. add a department
+    a. use inquirier 
+    b. .then function 
+    c. use a post call/query to add to db 
+7. I choose to add a role
+    a. use inquirier 
+    b. .then function 
+    c. use a post call/query to add to db 
+8. I choose to add an employee
+    a. use inquirier 
+    b. .then function 
+    c. use a post call/query to add to db 
+9. update an employee role
+    a. inquierer to list employees to update
+    b. inquierer to propmt user to eneter new role for emplyee 
+    c. use put request to update the emplyyee/ query 
