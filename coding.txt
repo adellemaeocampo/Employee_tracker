@@ -1,5 +1,5 @@
-1. create the data bases used to begin with, seeds.sql
-2. when started presented with all departments
+1. create the data bases used to begin with, seeds.sql ++
+2. when started presented with all departments 
     a. use inquirer package to let you view all the options below
     b. could use switch statement that calls a functions when you choose the option. 
 3. View all departments: add get call to get info from deartment db 
